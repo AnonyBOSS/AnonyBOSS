@@ -205,12 +205,14 @@ class AhmedHossam:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnonyBOSS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=AnonyBOSS&cc=22272e&tc=00b4d8&ic=fff&bc=22272e" width="48%" />
   <img src="https://streak-stats.demolab.com?user=AnonyBOSS&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonyBOSS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonyBOSS&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonyBOSS&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnonyBOSS&theme=tokyonight&utcOffset=2" width="32%"/>
 </div>
 
 <div align="center">
