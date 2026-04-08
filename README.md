@@ -113,7 +113,7 @@ class AhmedHossam:
         <img src="https://img.shields.io/github/stars/AnonyBOSS/Clinic-Web-App?style=flat&color=yellow"/>
         <img src="https://img.shields.io/github/last-commit/AnonyBOSS/Clinic-Web-App?style=flat&color=00b4d8"/>
       </p>
-      <a href="https://github.com/AnonyBOSS/Clinic-Web-App">📂 Repo</a>
+      <a href="https://clinic-web-app-two.vercel.app/">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/AnonyBOSS/Clinic-Web-App">📂 Repo</a>
     </td>
   </tr>
 </table>
@@ -205,14 +205,17 @@ class AhmedHossam:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=AnonyBOSS&cc=22272e&tc=00b4d8&ic=fff&bc=22272e" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonyBOSS&theme=tokyonight" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonyBOSS&theme=tokyonight" width="32%"/>
   <img src="https://streak-stats.demolab.com?user=AnonyBOSS&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonyBOSS&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonyBOSS&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnonyBOSS&theme=tokyonight&utcOffset=2" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonyBOSS&theme=tokyonight" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonyBOSS&theme=tokyonight" width="40%"/>
 </div>
 
 <div align="center">
