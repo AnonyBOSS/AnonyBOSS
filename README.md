@@ -153,7 +153,7 @@ class AhmedHossam:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/AnonyBOSS/detect-AI">Detect-AI</a></h3>
+      <h3> <a href="https://github.com/AnonyBOSS/detect-AI">Detect-AI</a></h3>
       <p><em>Kaggle AI Image Detection Competition</em></p>
       <p>ML pipeline to classify <strong>AI-generated vs human-made images</strong>. Full feature engineering, train/val splits, and multi-model evaluation.</p>
       <p>
@@ -202,7 +202,7 @@ class AhmedHossam:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonyBOSS&theme=tokyonight" width="70%" />
