@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Ahmed Hossam Abdallah</h1>
-<h3>🎓 Computer Engineering Student &nbsp;|&nbsp; 🤖 AI & Deep Learning &nbsp;|&nbsp; 🌐 Full-Stack Developer</h3>
+<h3> Computer Engineering Student &nbsp;|&nbsp;  AI & Deep Learning &nbsp;|&nbsp;  Full-Stack Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=🎓+Dual+Degree+%40+Ain+Shams+%26+UEL+London;🤖+AI+%7C+Deep+Learning+%7C+Machine+Learning;🌐+Full-Stack+with+Next.js+%26+React;📜+IBM+AI+Engineering+Certified)](https://github.com/AnonyBOSS)
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 ```python
 class AhmedHossam:
@@ -44,11 +44,11 @@ class AhmedHossam:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,19 +56,19 @@ class AhmedHossam:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Infrastructure
+### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -78,14 +78,14 @@ class AhmedHossam:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 Web Development
+### Web Development
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/AnonyBOSS/reddit-clone">Reddit Clone</a></h3>
+      <h3> <a href="https://github.com/AnonyBOSS/reddit-clone">Reddit Clone</a></h3>
       <p><em>Full Stack Social Platform</em></p>
       <p>Full-featured Reddit-style platform with <strong>communities, nested comments, voting, DMs, notifications</strong>, and <strong>AI-powered post summarization</strong> via Groq AI.</p>
       <p>
@@ -101,7 +101,7 @@ class AhmedHossam:
       <a href="https://reddit-clone-iota-taupe.vercel.app/login">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/AnonyBOSS/reddit-clone">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/AnonyBOSS/Clinic-Web-App">Clinic Web App</a></h3>
+      <h3><a href="https://github.com/AnonyBOSS/Clinic-Web-App">Clinic Web App</a></h3>
       <p><em>Healthcare Management Platform</em></p>
       <p>Full-stack clinic management system with <strong>secure authentication, role-based access control</strong>, REST API backend, and fully responsive UI.</p>
       <p>
@@ -118,12 +118,12 @@ class AhmedHossam:
   </tr>
 </table>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/AnonyBOSS/NVIDIA-DLI-DeepLearning-Project">CNN Image Classification</a></h3>
+      <h3> <a href="https://github.com/AnonyBOSS/NVIDIA-DLI-DeepLearning-Project">CNN Image Classification</a></h3>
       <p><em>PyTorch · NVIDIA DLI Final Project</em></p>
       <p>CNN architectures (standard + batch-normalized) on <strong>Fashion-MNIST (60k images)</strong>. Achieved <strong>~90% validation accuracy</strong> after hyperparameter tuning.</p>
       <p>
@@ -137,7 +137,7 @@ class AhmedHossam:
       <a href="https://github.com/AnonyBOSS/NVIDIA-DLI-DeepLearning-Project">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>❤️ <a href="https://github.com/AnonyBOSS/heart-disease-prediction-ml">Heart Disease Prediction</a></h3>
+      <h3><a href="https://github.com/AnonyBOSS/heart-disease-prediction-ml">Heart Disease Prediction</a></h3>
       <p><em>Supervised ML Model Comparison</em></p>
       <p>Compared <strong>6 ML models</strong> (SVM, Random Forest, KNN, Naive Bayes, Logistic Regression, Decision Tree) with full EDA, preprocessing, and F1/accuracy evaluation.</p>
       <p>
@@ -167,7 +167,7 @@ class AhmedHossam:
       <a href="https://github.com/AnonyBOSS/detect-AI">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="https://github.com/AnonyBOSS/Cisco-PacketTracer-Supply-chain-enterprise-project">Enterprise Network Design</a></h3>
+      <h3> <a href="https://github.com/AnonyBOSS/Cisco-PacketTracer-Supply-chain-enterprise-project">Enterprise Network Design</a></h3>
       <p><em>Cisco Packet Tracer · Supply Chain</em></p>
       <p>Secure enterprise network topology with <strong>VLANs, inter-VLAN routing, DHCP, NAT, ACLs</strong>, and Zone-Based Firewall (ZPF) policies.</p>
       <p>
@@ -185,11 +185,11 @@ class AhmedHossam:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issuer | 📅 Date |
+| Certificate | Issuer | Date |
 |---|---|---|
 | AI Engineering Professional Certificate | IBM & Coursera | Feb 2026 |
 | Generative AI — Beginner Level | ITI & NVIDIA DLI | Sep 2025 |
@@ -220,7 +220,7 @@ class AhmedHossam:
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnonyBOSS/AnonyBOSS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
