@@ -32,7 +32,7 @@ class AhmedHossam:
         self.location    = "Cairo, Egypt 🇪🇬"
         self.education   = [
             "B.Sc. Computer & AI Engineering — Ain Shams University (GPA: 3.11/4)",
-            "B.Sc. Computer Science — University of East London (GPA: 4.0/4) 🇬🇧",
+            "B.Sc. Computer Science — University of East London",
         ]
         self.interests   = ["Deep Learning", "Computer Vision", "Full-Stack Dev", "Networking"]
         self.currently   = "Building AI models & scalable web platforms"
