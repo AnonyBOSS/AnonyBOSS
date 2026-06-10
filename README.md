@@ -107,10 +107,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
       </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/llm-distributed-gpu-load-balancer?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/llm-distributed-gpu-load-balancer?style=flat&color=00b4d8"/>
-      </p>
       <a href="https://github.com/AnonyBOSS/llm-distributed-gpu-load-balancer">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
@@ -121,10 +117,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=flat&logo=meta&logoColor=white"/>
         <img src="https://img.shields.io/badge/NVIDIA_AI-76B900?style=flat&logo=nvidia&logoColor=white"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/NVIDIA-DLI-PromptEngineering-Assessment?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/NVIDIA-DLI-PromptEngineering-Assessment?style=flat&color=00b4d8"/>
       </p>
       <a href="https://github.com/AnonyBOSS/NVIDIA-DLI-PromptEngineering-Assessment">📂 Repo</a>
     </td>
@@ -145,10 +137,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
       </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/University-Management-System-MVP?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/University-Management-System-MVP?style=flat&color=00b4d8"/>
-      </p>
       <a href="https://github.com/AnonyBOSS/University-Management-System-MVP">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
@@ -160,10 +148,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/reddit-clone?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/reddit-clone?style=flat&color=00b4d8"/>
       </p>
       <a href="https://reddit-clone-iota-taupe.vercel.app/login">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/AnonyBOSS/reddit-clone">📂 Repo</a>
     </td>
@@ -178,10 +162,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
       </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/Clinify-mobile-app?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/Clinify-mobile-app?style=flat&color=00b4d8"/>
-      </p>
       <a href="https://github.com/AnonyBOSS/Clinify-mobile-app">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
@@ -192,10 +172,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/Clinic-Web-App?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/Clinic-Web-App?style=flat&color=00b4d8"/>
       </p>
       <a href="https://clinic-web-app-two.vercel.app/">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/AnonyBOSS/Clinic-Web-App">📂 Repo</a>
     </td>
@@ -214,10 +190,6 @@ class AhmedHossam:
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
       </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/detect-AI?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/detect-AI?style=flat&color=00b4d8"/>
-      </p>
       <a href="https://github.com/AnonyBOSS/detect-AI">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
@@ -227,10 +199,6 @@ class AhmedHossam:
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/AnonyBOSS/heart-disease-prediction-ml?style=flat&color=yellow"/>
-        <img src="https://img.shields.io/github/last-commit/AnonyBOSS/heart-disease-prediction-ml?style=flat&color=00b4d8"/>
       </p>
       <a href="https://github.com/AnonyBOSS/heart-disease-prediction-ml">📂 Repo</a>
     </td>
