@@ -130,15 +130,6 @@ Full-featured Reddit-style platform with **communities, nested comment threads, 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnonyBOSS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonyBOSS&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</div>
-
----
-
 <div align="center">
   <h4>Reach me via <a href="mailto:ahmadhossam82004@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ahmed-hossam-abdallah-673392309">LinkedIn</a> — open to internships in AI/ML and full-stack development.</h4>
 </div>
