@@ -38,6 +38,8 @@ I build **LLM serving infrastructure** and the **AI-powered products** on top of
 
 `Python` `FastAPI` `Hugging Face Transformers` `FAISS` `Docker` `NGINX` `Prometheus` `Grafana`
 
+<a href="https://github.com/AnonyBOSS/llm-distributed-gpu-load-balancer"><img src="assets/gpu-lb-dashboard.png" width="720" alt="Live cluster dashboard: load balancer, 2 healthy masters, and 4 inference workers with per-worker load" /></a>
+
 ### [Clinify — Healthcare Booking Platform (Web + Mobile)](https://github.com/AnonyBOSS/Clinic-Web-App)
 *Patient–doctor platform: one Next.js + MongoDB backend serving a web app and a React Native mobile app*
 
@@ -58,7 +60,7 @@ I build **LLM serving infrastructure** and the **AI-powered products** on top of
 
 `Next.js 16` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS v4`
 
-<!-- TODO: add a live demo link — Vercel has a `university-management-system-mvp` project -->
+[Live Demo](https://university-management-system-mvp.vercel.app/) · [Repo](https://github.com/AnonyBOSS/University-Management-System-MVP)
 
 ---
 
