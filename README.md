@@ -19,7 +19,7 @@
 
 I build **LLM serving infrastructure** and the **AI-powered products** on top of it.
 
-- **Flagship:** an LLM serving stack that handled **1,000 concurrent requests with zero failures** on a laptop GPU
+- **Flagship:** a distributed LLM serving stack that handles **1,000-request bursts** and **survives a worker crash mid-run without losing a request**
 - **Education:** dual degree, graduating 2027 — B.Sc. Computer & AI Engineering (**Ain Shams University**) + B.Sc. Computer Science (**University of East London**)
 - **Certified:** IBM AI Engineering Professional Certificate (2026)
 - **Open to** AI/ML engineering and full-stack internships
@@ -31,14 +31,12 @@ I build **LLM serving infrastructure** and the **AI-powered products** on top of
 ### [Distributed GPU Load Balancer for LLMs](https://github.com/AnonyBOSS/llm-distributed-gpu-load-balancer)
 *Distributed LLM serving: NGINX → load balancer → 2 masters → 4 inference workers (7 FastAPI services, 10 Docker containers)*
 
-- **1,000 concurrent requests, 0 failed** on real Qwen2.5-0.5B inference (2 GPU + 2 CPU workers, one laptop RTX 3060)
-- **Fault tolerant:** health checks with a circuit breaker plus retries — stopping a worker mid-benchmark dropped **0 of 250** requests
-- **4 routing strategies** (round-robin, least-connections, load-aware, power-of-two), switchable at runtime
+- **Crash-tested:** SIGKILL a worker mid-run and its in-flight requests fail over to healthy workers — **250 of 250 served**, none needing a client retry
+- **1,000 simultaneous requests** (simulated inference): **0 failed** under all 4 routing strategies (round-robin, least-connections, load-aware, power-of-two), p99 ≈ 4 s
+- **Real Qwen2.5-0.5B inference** on 2 GPU + 2 CPU workers (one laptop RTX 3060), with load shedding when the cluster is full
 - **RAG** with FAISS, **Prometheus + Grafana** latency dashboards, lint + pytest CI
 
 `Python` `FastAPI` `Hugging Face Transformers` `FAISS` `Docker` `NGINX` `Prometheus` `Grafana`
-
-<a href="https://github.com/AnonyBOSS/llm-distributed-gpu-load-balancer"><img src="assets/gpu-lb-dashboard.png" width="720" alt="Live cluster dashboard: load balancer, 2 healthy masters, and 4 inference workers with per-worker load" /></a>
 
 ### [Clinify — Healthcare Booking Platform (Web + Mobile)](https://github.com/AnonyBOSS/Clinic-Web-App)
 *Patient–doctor platform: one Next.js + MongoDB backend serving a web app and a React Native mobile app*
